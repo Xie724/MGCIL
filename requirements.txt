@@ -1,0 +1,8 @@
+# Core
+numpy>=1.17
+torch>=1.6
+scikit-learn
+matplotlib
+
+# Only needed to rebuild the frozen CLIP text anchors (extract_clip.py)
+# clip @ git+https://github.com/openai/CLIP.git

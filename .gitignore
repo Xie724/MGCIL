@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# Training / evaluation artifacts (not part of the code release)
+log/
+runs/
+*.log
+
+# Figure sources and rendered versions (kept locally)
+figs/
+
+# Qualitative frame dumps from XD-Violence (dataset content, not redistributed)
+quantity/
+
+# Checkpoints: only the main model of the paper is shipped.
+# The ablation / sensitivity runs stay local; re-train them with run_experiments.py.
+ckpt/*
+!ckpt/full_s1888.pkl
+
+# Data (download from the XD-Violence website)
+data/
+*.zip
