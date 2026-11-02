@@ -2,7 +2,7 @@
 
 **Multi-Granular Contrastive Learning for Lightweight Weakly-Supervised Audio-Visual Violence Detection**
 
-Chun-Guo Li, Shuai Xie, Hong-Jie Xing, Yidan Wang
+Chun-Guo Li, Shuai Xie, Xiaoxiao Liu, Yidan Wang
 
 *Hebei Key Laboratory of Machine Learning and Computational Intelligence, College of Mathematics and Information Science, Hebei University, Baoding 071002, China*
 
@@ -131,7 +131,7 @@ sensitivity checkpoints are not shipped; regenerate them with `run_experiments.p
 @misc{li2026mgcil,
   title  = {Multi-Granular Contrastive Learning for Lightweight
             Weakly-Supervised Audio-Visual Violence Detection},
-  author = {Li, Chun-Guo and Xie, Shuai and Xing, Hong-Jie and Wang, Yidan},
+  author = {Li, Chun-Guo and Xie, Shuai and Liu, Xiaoxiao and Wang, Yidan},
   year   = {2026},
   note   = {Manuscript under review}
 }
